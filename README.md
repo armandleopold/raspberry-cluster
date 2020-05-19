@@ -27,3 +27,7 @@ Raspberry PI4 4Go Cluster for a DevOps Global Project
 
 # Infrastructure : 
 ![raspberry-cluster-hardware-architecture.png](raspberry-cluster-hardware-architecture.png)
+
+
+# Network : 
+![raspberry-network.png](raspberry-network.png)
