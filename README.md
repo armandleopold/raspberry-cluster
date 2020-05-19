@@ -24,3 +24,6 @@ Raspberry PI4 4Go Cluster for a DevOps Global Project
 **Total : 140.89€**
 
 **Big Total : 576.63**
+
+# Infrastructure : 
+![raspberry-cluster-hardware-architecture.png](raspberry-cluster-hardware-architecture.png)
