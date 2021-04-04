@@ -20,10 +20,12 @@ Raspberry PI4 4Go Cluster for a DevOps Global Project
 * [Ubiquiti Edge Router X](https://www.amazon.fr/gp/product/B011N1IT2A/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1) 57.91€
 * [Alxum NVMe M.2 Drive Case](https://www.amazon.fr/gp/product/B07SLHRHQG/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1) 42.99€
 * [YUCUN NVMe 240Go SSD Drive](https://www.amazon.fr/gp/product/B07HVSF68X/ref=ppx_yo_dt_b_asin_title_o00_s01?ie=UTF8&psc=1) 39.99€
+* [Samsung SSD Interne 860 EVO 2.5" (250 Go)](https://www.amazon.fr/Samsung-SSD-860-Evo-250/dp/B078WQJXNF) 3*44.97€ = 134.91€
+* [iitrust Adaptateur USB 3.0 vers SATA III](https://www.amazon.fr/gp/product/B01N2JIQR7/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)  26.67€
 
-**Total : 140.89€**
+**Total : 302.47€**
 
-**Big Total : 576.63**
+**Big Total : 738.21**
 
 # Infrastructure : 
 ![raspberry-cluster-hardware-architecture.png](raspberry-cluster-hardware-architecture.png)
