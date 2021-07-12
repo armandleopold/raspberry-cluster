@@ -6,7 +6,7 @@ Raspberry PI4 4Go Cluster for a DevOps Global Project
 
 # Hardware : 
 
-* [4x raspberry pi 4Go](https://www.amazon.fr/gp/product/B07TC2BK1X/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1) 4*64€ = 256€
+* [4x raspberry pi 8Go](https://www.amazon.fr/gp/product/B0899VXM8F/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1) 4*87.35€ = 349.40€
 * [PowerPort USB Anker](https://www.amazon.fr/gp/product/B072K4TB67/ref=ppx_yo_dt_b_asin_title_o03_s02?ie=UTF8&psc=1) 29.99€
 * [4x USB C Power Cables](https://www.amazon.fr/gp/product/B07GWF92B5/ref=ppx_yo_dt_b_asin_image_o03_s02?ie=UTF8&psc=1) 9.99€
 * [TP Link Switch 5 Gigabit Ethernet](https://www.amazon.fr/gp/product/B00A128S24/ref=ppx_yo_dt_b_asin_title_o03_s01?ie=UTF8&psc=1) 15.95€
@@ -14,7 +14,7 @@ Raspberry PI4 4Go Cluster for a DevOps Global Project
 * [5x Cat6 RJ46 Rankie Ethernet Cables](https://www.amazon.fr/gp/product/B01J8MDV5G/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1) 9.99€
 * [4x Samsung Evo Plus 128Go MicroSD Card](https://www.amazon.fr/gp/product/B06XFHQGB9/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1) 4*23.48€ = 93.92€
 
-**Total : 435.74€**
+**Total : 529.23€**
 
 ## Extra hardware :
 * [Ubiquiti Edge Router X](https://www.amazon.fr/gp/product/B011N1IT2A/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1) 57.91€
@@ -25,7 +25,7 @@ Raspberry PI4 4Go Cluster for a DevOps Global Project
 
 **Total : 302.47€**
 
-**Big Total : 738.21**
+**Big Total : 831.70€**
 
 # Infrastructure : 
 ![raspberry-cluster-hardware-architecture.png](raspberry-cluster-hardware-architecture.png)
